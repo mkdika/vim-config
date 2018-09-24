@@ -12,6 +12,9 @@ Plugin 'tc50cal/vim-terminal'
 Plugin 'udalov/kotlin-vim'
 Plugin 'tpope/vim-surround'
 Plugin 'spf13/vim-autoclose'
+Plugin 'terryma/vim-multiple-cursors'
+Plugin 'junegunn/goyo.vim'
+Plugin 'artnez/vim-wipeout'
 
 call vundle#end()
 
@@ -44,6 +47,7 @@ filetype plugin indent on
 syntax on
 set number
 set cursorline
+set colorcolumn=80
 set expandtab
 set shiftwidth=2
 set tabstop=2
@@ -53,6 +57,6 @@ colorscheme onedark
 
 nmap <Leader>t :NERDTreeToggle<cr>
 nmap <Leader>e :TerminalSplit bash<cr>
-
-
+nmap <Leader>g :Goyo<cr>
+nmap <Leader>w :Wipeout<cr>
 

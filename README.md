@@ -14,7 +14,7 @@ This is the first version, customization is to achive the commons features of co
 #### Features
 
 - Have syntax highlighting with support of dozens programming language extension.
-- Have line number, and cursor line.
+- Have line number, and cursor line, vertical line break.
 - Use [Vundle](https://github.com/VundleVim/Vundle.vim), plug-in manager.
 - Use [Onedark](https://github.com/joshdick/onedark.vim), colorscheme and theme.
 - Use [Lightline](https://github.com/itchyny/lightline.vim), configurable status line.
@@ -25,18 +25,22 @@ This is the first version, customization is to achive the commons features of co
 - Use [Vim Terminal](https://github.com/tc50cal/vim-terminal), interactive Vim buffer terminal.
 - Use [Vim Autoclose](https://github.com/spf13/vim-autoclose), Inserts matching bracket, paren, brace or quote.
 - Use [Vim Surround](https://github.com/tpope/vim-surround), quoting/parenthesizing made simple.
+- Use [Vim Multiple Cursors](https://github.com/terryma/vim-multiple-cursors), multiple cursor for vim.
+- Use [Goyo](https://github.com/junegunn/goyo.vim), dictraction free, the 'Zen' mode for Vim.
+- Use [Vim Wipeout](https://github.com/artnez/vim-wipeout), destroy all buffers that are not open in any tab or windows.
 
 #### Usage & Shortcut
 
 - Toggle NERDTree: `\ + t`
 - Toggle Terminal Bash: `\ + e`
-
+- Toggle Goyo (Zen) mode: `\ + g`
+- Execute Buffers wipeout: `\ + w`
 
 #### Todo
 
 There are several todo list in order to complete this edition.
 
-- [ ] autocomplete.
+- [ ] autocomplete, (for: Java, Kotlin, HTML, Javascript, CSS)
 - [ ] String search within external files.
 - [ ] String search and replace.
 - [ ] Easy code template/ snippets.
