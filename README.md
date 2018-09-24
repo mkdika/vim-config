@@ -65,6 +65,11 @@ There are several todo list in order to complete this edition.
 ![Imgur](https://i.imgur.com/ZJIPCeB.png)
 
 
+## Reference
+
+- [Vim Cheat Sheet](https://i.imgur.com/Q0pQUWV.jpg)
+
+
 ## Copyright and License
 
 Copyright 2018 Maikel Chandika (mkdika@gmail.com). Code released under the
