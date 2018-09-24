@@ -24,8 +24,6 @@ This is the first version, customization is to achive the commons features of co
 - Use [Kotlin Vim](https://github.com/udalov/kotlin-vim), Kotlin language support plugin.
 - Use [Vim Terminal](https://github.com/tc50cal/vim-terminal), interactive Vim buffer terminal.
 - Use [Vim Autoclose](https://github.com/spf13/vim-autoclose), Inserts matching bracket, paren, brace or quote.
-- Use [Vim Surround](https://github.com/tpope/vim-surround), quoting/parenthesizing made simple.
-- Use [Vim Multiple Cursors](https://github.com/terryma/vim-multiple-cursors), multiple cursor for vim.
 - Use [Goyo](https://github.com/junegunn/goyo.vim), dictraction free, the 'Zen' mode for Vim.
 - Use [Vim Wipeout](https://github.com/artnez/vim-wipeout), destroy all buffers that are not open in any tab or windows.
 
