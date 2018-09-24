@@ -26,6 +26,8 @@ This is the first version, customization is to achive the commons features of co
 - Use [Vim Autoclose](https://github.com/spf13/vim-autoclose), Inserts matching bracket, paren, brace or quote.
 - Use [Goyo](https://github.com/junegunn/goyo.vim), dictraction free, the 'Zen' mode for Vim.
 - Use [Vim Wipeout](https://github.com/artnez/vim-wipeout), destroy all buffers that are not open in any tab or windows.
+- Use [CtrlP](https://github.com/ctrlpvim/ctrlp.vim), fuzzy file finder. 
+- Use [Supertab](https://github.com/ervandew/supertab), for autocomplete with Tab.    
 
 #### Usage & Shortcut
 
@@ -33,12 +35,20 @@ This is the first version, customization is to achive the commons features of co
 - Toggle Terminal Bash: `\ + e`
 - Toggle Goyo (Zen) mode: `\ + g`
 - Execute Buffers wipeout: `\ + w`
+- Buffers:
+  - To next buffer: `\ + f`
+  - To previous buffer: `\ + d`
+  - To close current buffer: `\ + s`
+- Window:
+  - To left window: `Ctrl + h`
+  - To right window: `Ctrl + l`
+  - To up window: `Ctrl + k`
+  - To bottom window: `Ctrl + j`
 
 #### Todo
 
 There are several todo list in order to complete this edition.
 
-- [ ] autocomplete, (for: Java, Kotlin, HTML, Javascript, CSS)
 - [ ] String search within external files.
 - [ ] String search and replace.
 - [ ] Easy code template/ snippets.

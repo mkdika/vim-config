@@ -13,6 +13,8 @@ Plugin 'udalov/kotlin-vim'
 Plugin 'spf13/vim-autoclose'
 Plugin 'junegunn/goyo.vim'
 Plugin 'artnez/vim-wipeout'
+Plugin 'ctrlpvim/ctrlp.vim'
+Plugin 'ervandew/supertab'
 
 call vundle#end()
 
@@ -52,9 +54,19 @@ set tabstop=2
 
 colorscheme onedark
 
+nmap <Leader>f :bn<cr>
+nmap <Leader>d :bp<cr>
+nmap <Leader>s :bd<cr>
+
+nmap <C-h> <C-w><C-h>
+nmap <C-j> <C-w><C-j>
+nmap <C-k> <C-w><C-k>
+nmap <C-l> <C-w><C-l>
 
 nmap <Leader>t :NERDTreeToggle<cr>
 nmap <Leader>e :TerminalSplit bash<cr>
 nmap <Leader>g :Goyo<cr>
 nmap <Leader>w :Wipeout<cr>
+
+
 
