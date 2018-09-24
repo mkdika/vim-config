@@ -62,6 +62,8 @@ There are several todo list in order to complete this edition.
 
 ![Imgur](https://i.imgur.com/WYvXBRB.png)
 
+![Imgur](https://i.imgur.com/ZJIPCeB.png)
+
 
 ## Copyright and License
 
