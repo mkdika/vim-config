@@ -60,10 +60,15 @@ There are several todo list in order to complete this edition.
 
 ![Imgur](https://i.imgur.com/OlyMTf7.png)
 
+Images: _Lelf panel NERDTree_
+
 ![Imgur](https://i.imgur.com/WYvXBRB.png)
+
+Images: _Bottom panel Terminal_
 
 ![Imgur](https://i.imgur.com/ZJIPCeB.png)
 
+Images: _Goyo 'Zen' mode_
 
 ## Reference
 
@@ -72,6 +77,6 @@ There are several todo list in order to complete this edition.
 
 ## Copyright and License
 
-Copyright 2018 Maikel Chandika (mkdika@gmail.com). Code released under the
+Copyright 2018-2019 Maikel Chandika (mkdika@gmail.com). Code released under the
 MIT License. See [LICENSE](/LICENSE) file.
 
