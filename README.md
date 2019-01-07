@@ -29,6 +29,12 @@ This is the first version, customization is to achive the commons features of co
 - Use [CtrlP](https://github.com/ctrlpvim/ctrlp.vim), fuzzy file finder. 
 - Use [Supertab](https://github.com/ervandew/supertab), for autocomplete with Tab.    
 
+
+#### Installation
+
+_Coming soon.._
+
+
 #### Usage & Shortcut
 
 - Toggle NERDTree: `\ + t`
@@ -44,6 +50,11 @@ This is the first version, customization is to achive the commons features of co
   - To right window: `Ctrl + l`
   - To up window: `Ctrl + k`
   - To bottom window: `Ctrl + j`
+
+
+#### Troubleshoot
+
+_Coming soon.._
 
 #### Todo
 
